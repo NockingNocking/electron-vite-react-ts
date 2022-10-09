@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 /*
  * @Author: Mocking 497773732@qq.com
  * @Date: 2022-08-28 15:00:45
